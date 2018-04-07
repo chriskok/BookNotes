@@ -17,4 +17,10 @@ by Stuart Russell and Peter Norvig
 * pg 43: Episodic (the next episode doesn't depend on the previous ones, like american tv series) vs Sequential (current decision could affect all else, like anime).
 * pg 57: Representations of agent's environments include Atomic (like a black box), Factored (like a weighted black box) and Structured (where they might all rely on other agent's).
 
+### Chapter 3: Solving Problems By Searching
+* pg 65: In general, an agent with several immediate options of unknown value can decide what to do by first examining future actions that eventually lead to states of known value.
+* pg 66: "A search algorithm takes a problem as input and returns a solution in the form of an action sequence." Not what I initially thought of when I read search algorithm. 
+
+
+
 
