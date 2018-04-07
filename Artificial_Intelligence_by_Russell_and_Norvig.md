@@ -15,5 +15,6 @@ by Stuart Russell and Peter Norvig
 * pg 43: Single (crossword) vs Multiagent(chess) environments; where agent A might depends on another (or multiple other) agents B, C, etc. 
 * pg 43: Deterministic vs Stochastic situations; most real-life ones are hard to be deterministic especially the partially oberservable. 
 * pg 43: Episodic (the next episode doesn't depend on the previous ones, like american tv series) vs Sequential (current decision could affect all else, like anime).
+* pg 57: Representations of agent's environments include Atomic (like a black box), Factored (like a weighted black box) and Structured (where they might all rely on other agent's).
 
 
