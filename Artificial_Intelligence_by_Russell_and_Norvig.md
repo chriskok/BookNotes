@@ -19,7 +19,24 @@ by Stuart Russell and Peter Norvig
 
 ### Chapter 3: Solving Problems By Searching
 * pg 65: In general, an agent with several immediate options of unknown value can decide what to do by first examining future actions that eventually lead to states of known value.
-* pg 66: "A search algorithm takes a problem as input and returns a solution in the form of an action sequence." Not what I initially thought of when I read search algorithm. 
+* pg 66: "A search algorithm takes a problem as input and returns a solution in the form of an action sequence." Not what I initially thought of when I read search algorithm. Edit: now that I read further on, it's actually pretty much the same thing.
+* pg 79: The typical structure of a search algorithm is;
+function CHILD-NODE(problem, parent , action) returns a node
+  return a node with
+    STATE = problem.RESULT(parent.STATE, action),
+    PARENT = parent, ACTION = action,
+    PATH-COST = parent.PATH-COST + problem.STEP-COST(parent.STATE, action)
+Where: 
+• n.STATE: the state in the state space to which the node corresponds;
+• n.PARENT: the node in the search tree that generated this node;
+• n.ACTION: the action that was applied to the parent to generate the node;
+• n.PATH-COST: the cost, traditionally denoted by g(n), of the path from the initial state to the node, as indicated by the parent pointers.
+* pg 84: Uniform-cost search, similar to BFS but down with a priority queue with ordering based on g(n) or the cost of each path. The minimum cost path gets expanded first and the smallest cost to get to any particular node is saved in that node.
+* pg 87: Depth-limited search, similar to DFS but stops at a certain limit.
+* pg 89: Iterative deepening DFS, using DFS but runs through it at each level until it finds all goals (we say it runs till the depth of the shallowest goal node, d). O(b^d) time, O(bd) space. 
+* pg 91: Bidirectional search, run two searches, one from the goal and one from the initial state and hope they meet. The idea is that b^(d/2) + b^(d/2) is much less than b^d. O(b^(d/2)) time and space.
+
+
 
 
 
