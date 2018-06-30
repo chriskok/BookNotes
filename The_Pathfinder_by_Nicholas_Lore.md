@@ -17,10 +17,10 @@ by Nicholas Lore
 * note: Basically the rest of chapter 3 describes some other chapters of the book and how to use them to their fullest, make a list, whittle it down and don't give up till you achieve your dreams.
 
 ### Chapter 4: Use The Pathfinder as your guide
-* page 
+* page
 
 ---
 
-<a name="workspace"/>
+<a name="workspace"/></a>
 ## Workspace
 * page 33: I've recently spoke to people about being subject matter experts in the Machine Learning field and to me that sounds pretty perfect. Understanding the very edge of our science and putting together the pieces to make things work. Another thing I'd really like to achieve is the freedom to work from home or at least be at home a lot. I know I want to be in absolute control over the problems I solve daily, unsure of whether that can be achieved in a managerial position.
