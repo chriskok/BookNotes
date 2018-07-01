@@ -36,31 +36,31 @@ by Nicholas Lore
 
 <a name="pg55"/></a>
 * page 55: Make sure I have all of these in my future position. note: I have most of these now
- - I enjoy going to work. I don’t have trouble getting up in the morning because what I do is interesting and challenging.
- - My work is a natural expression of my talents and personality.
- - Success comes easily to me because I am extremely good at what I do.
- - I am proud of what I do and enjoy telling other people about it.
- - I am highly respected at work because I’m so good at what I do.
- - Work is often so enjoyable it feels more like play.
- - My job provides a flow of interesting problems to solve, ones I find exciting and challenging.
- - I don’t have to pretend to be someone else at work because my personality suits my work.
- - I’m paid to make use of my own best and most natural forms of creative expression.
- - My work environment brings out my best efforts. (clue: the people are amazing, I need to decorate more)
- - My job fits my most important values and allows me to fulfill my goals in terms of personal growth and achievement goals, income, stability, and so on.
- - The result of my efforts makes a contribution that personally matters to me. I feel I am doing something that makes a difference. (X | clue: It hasn't hit me yet what impact I'm going to make)
- - My job does not take over my entire life. I have plenty of time for friends, family, and fun outside of work.
- - I like the people I work with.
- - I am on a winning team that is having a great time getting the job done. (clue: I don't feel like I'm contributing enough to the great team I have)
- - A day on the job leaves me feeling energized, not burned out.
+  - I enjoy going to work. I don’t have trouble getting up in the morning because what I do is interesting and challenging.
+  - My work is a natural expression of my talents and personality.
+  - Success comes easily to me because I am extremely good at what I do.
+  - I am proud of what I do and enjoy telling other people about it.
+  - I am highly respected at work because I’m so good at what I do.
+  - Work is often so enjoyable it feels more like play.
+  - My job provides a flow of interesting problems to solve, ones I find exciting and challenging.
+  - I don’t have to pretend to be someone else at work because my personality suits my work.
+  - I’m paid to make use of my own best and most natural forms of creative expression.
+  - My work environment brings out my best efforts. (clue: the people are amazing, I need to decorate more)
+  - My job fits my most important values and allows me to fulfill my goals in terms of personal growth and achievement goals, income, stability, and so on.
+  - The result of my efforts makes a contribution that personally matters to me. I feel I am doing something that makes a difference. (X | clue: It hasn't hit me yet what impact I'm going to make)
+  - My job does not take over my entire life. I have plenty of time for friends, family, and fun outside of work.
+  - I like the people I work with.
+  - I am on a winning team that is having a great time getting the job done. (clue: I don't feel like I'm contributing enough to the great team I have)
+  - A day on the job leaves me feeling energized, not burned out.
 
 
 * page 58: My life line, what I'd like to accomplish over the years. Questions: “What would I most like to accomplish between the years of X and Y?”, “What would I want to have done?”, “Who would I like to be by then?”, “What would I like to have by then?”
- - age 25: Senior engineer position, get married, travel a lot to experience different cultures, try my best to make the most of my youth
- - age 30: Kids, settle down and own a comfortable house, principal engineer position? (idk how long these take), secure financial plan for the future (knowing that my kids will be able to go through college without loans)
- - age 35: Subject matter expert in my field, nothing material comes to mind, I just hope to be really good at parenting
+  - age 25: Senior engineer position, get married, travel a lot to experience different cultures, try my best to make the most of my youth
+  - age 30: Kids, settle down and own a comfortable house, principal engineer position? (idk how long these take), secure financial plan for the future (knowing that my kids will be able to go through college without loans)
+  - age 35: Subject matter expert in my field, nothing material comes to mind, I just hope to be really good at parenting
 
 <a name="pg72"/></a>
 * page 72: List of Yeahbuts to keep an eye out for
- - Yeahbut I won't have enough money if I'm not doing something like Machine Learning (120k salary on average).
- - Yeahbut I won't get as much money if I don't work in the Silicon Valley (conflicted because I really like Cedar Rapids, and I am unsure as to the exchange between the higher cost of living there and whether they even out).
- - Yeahbut I'm an immigrant and should prioritize staying here over the comfort of my job and position.
+  - Yeahbut I won't have enough money if I'm not doing something like Machine Learning (120k salary on average).
+  - Yeahbut I won't get as much money if I don't work in the Silicon Valley (conflicted because I really like Cedar Rapids, and I am unsure as to the exchange between the higher cost of living there and whether they even out).
+  - Yeahbut I'm an immigrant and should prioritize staying here over the comfort of my job and position.
