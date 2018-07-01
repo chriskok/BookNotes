@@ -91,7 +91,7 @@ by Nicholas Lore
   - Spiritual = meditate often -> understand and clearly articulate my spirituality
   - TODO: expand on the list and set milestones for each large goal, also milestones for each metagoal along the way.
 
-<a name="pg108"/></a>
+<a name="pg113"/></a>
 * page 113: List of questions I have to determine my future career
   - Will it make enough money to support me and my family?
   - Will it allow me the freedom to be with my family enough of the time and have fun as well?
