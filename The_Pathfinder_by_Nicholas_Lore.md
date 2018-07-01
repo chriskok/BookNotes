@@ -35,6 +35,16 @@ by Nicholas Lore
 ### Chapter 7: Making decisions - a short course
 * page 87: The following few pages describe a process to practicing free choice. I believe it's rather important. Step 1 is to pay attention to your decisions now and from the past (how you made them, what led up to it, what came next). Step 2 is to learn about the matter in question (read all about it, feel your gut, look at what others have to say). Step 3 is to make a choice (although it may be uncomfortable, you should know at this point what is important to you). Step 4 is to practice with small choices and step 5 is to observe and update the lists about potential changes for our clues, definite components and career ideas lists.
 
+### Chapter 8: Goals and projects
+* page 102: Accomplishment cycles = creation (identify when and how you know you achieved the goal) -> action (planning, designing, researching, implementing and monitoring) -> completion
+* note: A lot of example goals were about travel, experiences (diving, swimming and climbing), learning (life skills, languages, musical instruments). I'm sure I can personalize this when I want to make my own list. Remember, its not just about you. Make marriage or family goals too!
+* page 103: A reasonable goal is to secure a job here in the US. An absurd goal to me would be to have an insane amount of money (enough to afford a mansion, etc.). Note: Should use this strategy for each domain of life so as to stretch your mind for your goals and determine how far you can go.
+* page 104: Action process = plan -> create displays (big ones) -> execute, monitor, adjust.
+* page 108: List of goals and projects [BELOW](#pg108).
+
+### Chapter 9: Questions
+* page 113: Ask yourself questions often to find out what you want to do with life, everything from what matters to you to what limits you. The keys is knowing where to find the answers (introspection, internet or make up the answer). They suggest making a list of many questions that you would need to decide your future career and determine from the list how you can answer those questions. My list is [BELOW](#pg113).
+
 ---
 
 <a name="workspace"/></a>
@@ -72,11 +82,30 @@ by Nicholas Lore
   - Yeahbut I won't get as much money if I don't work in the Silicon Valley (conflicted because I really like Cedar Rapids, and I am unsure as to the exchange between the higher cost of living there and whether they even out).
   - Yeahbut I'm an immigrant and should prioritize staying here over the comfort of my job and position.
 
+<a name="pg108"/></a>
+* page 108: List of goals and projects (based on some chosen categories)
+  - Categories that matter to me: Adventures, Career, Communication, Education, Family, Finances, Friends, Fun, Health and Fitness, Help Others, Hobbies, Love Life, Marriage, Personal Growth, Reading, Retirement, Sex, Skill Development, Spiritual, Travel
+  - Adventures = visiting a state I haven't visited in the USA -> visiting a place where nearly no one is allowed to go (north korea?)
+  - Health and Fitness = go to the gym 3 times a week -> get and maintain abs
+  - Hobbies = make some cool machine learning projects -> make globally renowned projects that potentially advance a field
+  - Spiritual = meditate often -> understand and clearly articulate my spirituality
+  - TODO: expand on the list and set milestones for each large goal, also milestones for each metagoal along the way.
+
+<a name="pg108"/></a>
+* page 113: List of questions I have to determine my future career
+  - Will it make enough money to support me and my family?
+  - Will it allow me the freedom to be with my family enough of the time and have fun as well?
+  - Will it make me feel fulfilled as a contributor?
+  - note: turns out I was thinking about the questions in the wrong way, it was meant to be introspective questions about myself (not about the job itself) that would help me determine personally what kind of career would suit me. For example, indoors or outdoors? Large office? Travel often?
+  - I feel unable to answer most of these questions yet because I feel like I am willing to like pretty much anything I do right now. I will revisit this list in the future.
+  - Things I am sure of: Predictability (I want to come into work knowing what I'll do 90% of the time), Portability (It is important for me for my work to be portable, moving anywhere I want).
+
 ---
 
 <a name="actionitems"/></a>
 ## Action Items
 * Practice mindfulness meditation daily
 * Practice more daily routines (stretch or make bed in the morning)
+* Read 1 hour daily
 
 ---
