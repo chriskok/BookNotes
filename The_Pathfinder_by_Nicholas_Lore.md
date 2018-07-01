@@ -27,6 +27,13 @@ by Nicholas Lore
 * page 72: List of personal Yeahbuts [BELOW](#pg72).
 
 ### Chapter 6: The power of commitment
+* page 78: "It takes courage to tell the truth about what you are committed to. Most of us are not completely, unshakably committed to having a truly marvelous career or marriage or anything else. For the most part, we are committed to comfort, low risk, and equilibrium."
+* note: This chapter mentions how commitments are essential to combat the epidemic of Yeahbuts. We have to understand, declare and clearly document our commitments for ourselves and the people who care about us. It is hard for us to get rid of old habits but easy to form new ones and in that sense we can and should focus our attention to forming new habits out of our chosen commitments.
+* page 80: "To me, real friends are those people who will stand for you expressing yourself fully, who will go out of their way to support you to keep your word, to go the extra mile, to get out of the box, to make your dreams come true."
+* note: To strengthen your commitments, try to visualize yourself completing them (especially in the face of Yeahbut attacks).
+
+### Chapter 7: Making decisions - a short course
+* page 87: The following few pages describe a process to practicing free choice. I believe it's rather important. Step 1 is to pay attention to your decisions now and from the past (how you made them, what led up to it, what came next). Step 2 is to learn about the matter in question (read all about it, feel your gut, look at what others have to say). Step 3 is to make a choice (although it may be uncomfortable, you should know at this point what is important to you). Step 4 is to practice with small choices and step 5 is to observe and update the lists about potential changes for our clues, definite components and career ideas lists.
 
 ---
 
@@ -57,10 +64,19 @@ by Nicholas Lore
 * page 58: My life line, what I'd like to accomplish over the years. Questions: “What would I most like to accomplish between the years of X and Y?”, “What would I want to have done?”, “Who would I like to be by then?”, “What would I like to have by then?”
   - age 25: Senior engineer position, get married, travel a lot to experience different cultures, try my best to make the most of my youth
   - age 30: Kids, settle down and own a comfortable house, principal engineer position? (idk how long these take), secure financial plan for the future (knowing that my kids will be able to go through college without loans)
-  - age 35: Subject matter expert in my field, nothing material comes to mind, I just hope to be really good at parenting
+  - age 35: Subject matter expert in my field, nothing material comes to mind, I just hope to be really good at parenting and I want to be healthy for my family
 
 <a name="pg72"/></a>
 * page 72: List of Yeahbuts to keep an eye out for
   - Yeahbut I won't have enough money if I'm not doing something like Machine Learning (120k salary on average).
   - Yeahbut I won't get as much money if I don't work in the Silicon Valley (conflicted because I really like Cedar Rapids, and I am unsure as to the exchange between the higher cost of living there and whether they even out).
   - Yeahbut I'm an immigrant and should prioritize staying here over the comfort of my job and position.
+
+---
+
+<a name="actionitems"/></a>
+## Action Items
+* Practice mindfulness meditation daily
+* Practice more daily routines (stretch or make bed in the morning)
+
+---
