@@ -13,7 +13,9 @@ by Sam Harris
 * page 68: "I am arguing that science can, in principle, help us understand what we should do and should want—and, therefore, what other people should do and should want in order to live the best lives possible"
 * page 77: we can see that in many parts of the book there is a double standard between morality and science. The example given here is how scientific truth is seen to exist if there is consensus while controversy is a sign of work to be done. Meanwhile, moral controversy proves that there can be no such thing as moral truth, while moral consensus shows only that human beings often harbor the same biases. 
 * page 78: just as a personal note, a lot of his proofs remind me of logical reasoning we have been through in discrete math and algorithm classes.
-* stopped on page 91
+* page 108: in terms of female circumcition when one person does it, it will be considered a crime. But when millions of people do this, instead of the enormity being magnified millions-fold, suddenly it becomes “culture,” and thereby magically becomes less, rather than more, horrible, and is even defended by some Western “moral thinkers,” including feminists. (Steven Pinker, The Blank Slate)
+* page 108: he mostly argues the morality of traditions that would subtract from human well-being (eg: burqas). Also, I think it is very important that he debunks the double standards mentioned earlier to show that we shouldn't just put off morality as 'depending on your personal beliefs or culture' but instead justifying the need for a more universal foundation for human values. Must say that this reminds me a lot of utilitarianism (remember him saying that we were to judge the collective happiness and measure that over the number of people affected in two situations).
 
-
-
+### Chapter 2: Good and Evil
+* page 154: "Most scientists seem to believe that no matter how maladaptive or masochistic a person’s moral commitments, it is impossible to say that he is ever mistaken about what constitutes a good life."
+* stopped at page 154
