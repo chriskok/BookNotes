@@ -18,4 +18,10 @@ by Sam Harris
 
 ### Chapter 2: Good and Evil
 * page 154: "Most scientists seem to believe that no matter how maladaptive or masochistic a person’s moral commitments, it is impossible to say that he is ever mistaken about what constitutes a good life."
-* stopped at page 154
+* page 157: “identifiable victim effect.” by Paul Slovic states that when the number of people increase the less we care (eg: one starving child vs a hundred)
+* page 170: In psychologist Daniel Kahneman’s words, “a good is worth more when it is considered as something that could be lost or given up than when it is evaluated as a potential gain." In this case, it shows that we have to take value of loss into consideration during moral questions (eg: girl who lost 100 iq vs the girl who stayed but couldved doubled)
+* page 177: argument for why not to refer to religious scripture as source of moral guidance
+* page 190: "One norm that morality and rationality share is the interchangeability of perspective.47 The solution to a problem should not depend on whether you are the husband or the wife, the employer or employee, the creditor or debtor, etc." This is in relation to the Theory of Justice by John Rawls where he says you can build any society you want as long as you don't make the assumption that you are a certain kind of person (male/female, black/white, etc.)
+* page 192: on the topic of "being good is hard" we realize that we cannot always make the absolute best choice due to our own competing needs. What we can do is try, within practical limits, to follow a path that seems likely to maximize both our own well-being and the well-being of others. This is what it means to live wisely and ethically.
+* page 199: Haidt is right to notice that the brain’s emotional circuitry often governs our moral intuitions, and the way in which feeling drives judgment is surely worthy of study because it is now well known that our feeling of reasoning objectively is often illusory.
+* stopped on page 225
