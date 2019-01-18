@@ -24,4 +24,12 @@ by Sam Harris
 * page 190: "One norm that morality and rationality share is the interchangeability of perspective.47 The solution to a problem should not depend on whether you are the husband or the wife, the employer or employee, the creditor or debtor, etc." This is in relation to the Theory of Justice by John Rawls where he says you can build any society you want as long as you don't make the assumption that you are a certain kind of person (male/female, black/white, etc.)
 * page 192: on the topic of "being good is hard" we realize that we cannot always make the absolute best choice due to our own competing needs. What we can do is try, within practical limits, to follow a path that seems likely to maximize both our own well-being and the well-being of others. This is what it means to live wisely and ethically.
 * page 199: Haidt is right to notice that the brain’s emotional circuitry often governs our moral intuitions, and the way in which feeling drives judgment is surely worthy of study because it is now well known that our feeling of reasoning objectively is often illusory.
-* stopped on page 225
+* page 230: argument on free will, and on page 237, what happens to the court system if there is no free will
+* page 241: What we condemn in another person is the intention to do harm—and thus any condition or circumstance (e.g., accident, mental illness, youth) that makes it unlikely that a person could harbor such an intention would mitigate guilt, without any recourse to notions of free will.
+
+### Chapter 3: Belief
+* page 261: this chapter explores belief in a sense of mental acceptance of a proposition; the act of grasping a concept instead of the concept itself.
+* page 273: the MPFC appears to be similarly engaged, irrespective of a belief’s content. This finding of content-independence challenges the fact/value distinction very directly: for if, from the point of view of the brain, believing “the sun is a star” is importantly similar to believing “cruelty is wrong,” how can we say that scientific and ethical judgments have nothing in common?
+* page 276: the internet has simultaneously enabled two opposing influences on belief: On the one hand, it has reduced intellectual isolation by making it more difficult for people to remain ignorant of the diversity of opinion on any given subject. But it has also allowed bad ideas to flourish—as anyone with a computer and too much time on his hands can broadcast his point of view and, often enough, find an audience.
+* page 285: argument on how the gap between believers and non believers in religion could be bridged through reason.
+* stopped on page 292: Belief and Reasoning
