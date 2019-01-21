@@ -32,4 +32,11 @@ by Sam Harris
 * page 273: the MPFC appears to be similarly engaged, irrespective of a belief’s content. This finding of content-independence challenges the fact/value distinction very directly: for if, from the point of view of the brain, believing “the sun is a star” is importantly similar to believing “cruelty is wrong,” how can we say that scientific and ethical judgments have nothing in common?
 * page 276: the internet has simultaneously enabled two opposing influences on belief: On the one hand, it has reduced intellectual isolation by making it more difficult for people to remain ignorant of the diversity of opinion on any given subject. But it has also allowed bad ideas to flourish—as anyone with a computer and too much time on his hands can broadcast his point of view and, often enough, find an audience.
 * page 285: argument on how the gap between believers and non believers in religion could be bridged through reason.
-* stopped on page 292: Belief and Reasoning
+* page 320: Believe a proposition because it is well supported by theory and evidence; believe it because it has been experimentally verified; believe it because a generation of smart people have tried their best to falsify it and failed; believe it because it is true (or seems so). "As far as our understanding of the world is concerned—there are no facts without values."
+
+### Chapter 4: Religion
+* page 327: Countries like Denmark, Sweden, Norway, and the Netherlands—which are the most atheistic societies on earth—consistently rate better than religious nations on measures like life expectancy, infant mortality, crime, literacy, GDP, child welfare, economic equality, economic competitiveness, gender equality, health care, investments in education, rates of university enrollment, internet access, environmental protection, lack of corruption, political stability, and charity to poorer nations, etc.
+* page 336: religion is largely a matter of what people teach their children to believe about the nature of reality
+* page 340: belief was same in the case of Eagles vs Angels really exist and hence argues strongly that the difference between belief and disbelief is the same, regardless of what is being thought about
+* page 342: both groups also took considerably longer to respond to religious stimuli, despite the fact that these statements were no more complex than those in the other category. Perhaps both atheists and religious believers are generally less sure about the truth and falsity of religious statements
+* stopped on page 361
