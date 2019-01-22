@@ -39,4 +39,11 @@ by Sam Harris
 * page 336: religion is largely a matter of what people teach their children to believe about the nature of reality
 * page 340: belief was same in the case of Eagles vs Angels really exist and hence argues strongly that the difference between belief and disbelief is the same, regardless of what is being thought about
 * page 342: both groups also took considerably longer to respond to religious stimuli, despite the fact that these statements were no more complex than those in the other category. Perhaps both atheists and religious believers are generally less sure about the truth and falsity of religious statements
-* stopped on page 361
+* page 361: he begins an argument (or rant really) about the validity of religious belief, not saying I disagree but I feel like I've heard it before.
+* page 386: "It is possible to be wrong and to not know it (we call this “ignorance”). It is possible to be wrong and to know it, but to be reluctant to incur the social cost of admitting this publicly (we call this “hypocrisy”). And it may also be possible to be wrong, to dimly glimpse this fact, but to allow the fear of being wrong to increase one’s commitment to one’s erroneous beliefs (we call this “self-deception”)."
+
+### Chapter 5: The Future Of Happiness
+* page 406: The general finding of this research (positive psych) is now uncontroversial: we are poorly placed to accurately recall the past, to perceive the present, or to anticipate the future with respect to our own happiness. It seems little wonder, therefore, that we are so often unfulfilled.
+* page 417: "It is also conceivable that a science of human flourishing could be possible, and yet people could be made equally happy by very different “moral” impulses. Perhaps there is no connection between being good and feeling good—and, therefore, no connection between moral behavior (as generally conceived) and subjective well-being. In this case, rapists, liars, and thieves would experience the same depth of happiness as the saints."
+
+### End
