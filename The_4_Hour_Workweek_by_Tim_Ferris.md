@@ -14,4 +14,11 @@ by Timothy Ferris
 
 ### Chapter 2: E is for Elimination
 * page 120: Forget about time management, we spend too long doing many things instead of focusing on what is important. It is necessary to do less to accomplish more.
-* stopped on page 122
+* page 124: Doing something unimportant well does not make it important. Requiring a lot of time does not make a task important.
+* page 126: pareto law -> 80% of the results come from 20% of the effort and time or 80% of company profits come from 20% of the products and customers.
+* page 131: Most things make no difference. Being busy is a form of laziness—lazy thinking and indiscriminate action.
+* page 136: Parkinson’s Law dictates that a task will swell in (perceived) importance and complexity in relation to the time allotted for its completion. It is the magic of the imminent deadline.
+* page 136: Hence, limit tasks to the important to shorten work time (80/20) and shorten work time to limit tasks to the important (Parkinson’s Law).
+* page 161: on the topic of selective ignorance: "Will I definitely use this information for something immediate and important?" and also "More is not better, and stopping something is often 10 times better than finishing it."
+* page 180: regarding effectiveness and efficiency in the office, you should limit the amount of times you check emails daily, you should also keep two phones (with one for emergencies) and try to cut down everything really (like conversations, meetings - should be held to make decisions, etc).
+* stopped on page 190
