@@ -21,4 +21,8 @@ by Timothy Ferris
 * page 136: Hence, limit tasks to the important to shorten work time (80/20) and shorten work time to limit tasks to the important (Parkinson’s Law).
 * page 161: on the topic of selective ignorance: "Will I definitely use this information for something immediate and important?" and also "More is not better, and stopping something is often 10 times better than finishing it."
 * page 180: regarding effectiveness and efficiency in the office, you should limit the amount of times you check emails daily, you should also keep two phones (with one for emergencies) and try to cut down everything really (like conversations, meetings - should be held to make decisions, etc).
-* stopped on page 190
+* page 192: "Limit access to your time, force people to define their requests before spending time with them, and batch routine menial tasks to prevent postponement of more important projects. Do not let people interrupt you. Find your focus and you’ll find your lifestyle."
+* page 225: "Each delegated task must be both time-consuming and well-defined. If you’re running around like a chicken with its head cut off and assign your VA to do that for you, it doesn’t improve the order of the universe." where VA is a virtual assistant, someone you can outsource your daily tasks to virtually for a cheaper price than you are being paid.
+* page 230: there are lots of things you can do with VAs, just check it out and try it to get more experienced. Do not be afraid to have a bad one.
+* page 238: hire a VA firm or VAs with backup teams instead of sole operators -> Brickwork and YMII both exemplify this type of structure and provide a single point of contact, a personal account manager, who then farms out your tasks to the most-capable people in the group and across different shifts.
+* stopped on page 240
