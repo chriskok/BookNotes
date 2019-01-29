@@ -25,4 +25,10 @@ by Timothy Ferris
 * page 225: "Each delegated task must be both time-consuming and well-defined. If you’re running around like a chicken with its head cut off and assign your VA to do that for you, it doesn’t improve the order of the universe." where VA is a virtual assistant, someone you can outsource your daily tasks to virtually for a cheaper price than you are being paid.
 * page 230: there are lots of things you can do with VAs, just check it out and try it to get more experienced. Do not be afraid to have a bad one.
 * page 238: hire a VA firm or VAs with backup teams instead of sole operators -> Brickwork and YMII both exemplify this type of structure and provide a single point of contact, a personal account manager, who then farms out your tasks to the most-capable people in the group and across different shifts.
-* stopped on page 240
+* page 249: practice effective communication with your assistant, set deadlines and also be clear about what you're looking for and always ask if this is doable otherwise ask them to suggest something different
+* page 251: all the links to freelancer sites
+* page 265: the goal to is to be able to make a business that you don't have to spend too much time on after a while (close to passive income)
+* page 270: begin with the distribution in mind, not the product. Think about your audience (can find many through different magazines or social/industry/pro groups) and then brainstorm products that would appeal to them. Cost 50-200 and should take no more than 3/4 weeks to make
+* page 290: can either create a product, second hand sell or copyright. Lots of advice on all 3 including how to indentify the niche market later on in the chapter too.
+* note: personally feel like a lot of the time there are stories that seem too good to be true or not relevant to my personal success. Eg: this guy works 30 mins a day to get billions or dropshipping is the answer but there are many things behind the scenes that scare me.
+* stopped at page 311
