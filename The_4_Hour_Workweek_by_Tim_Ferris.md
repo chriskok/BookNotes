@@ -31,4 +31,9 @@ by Timothy Ferris
 * page 270: begin with the distribution in mind, not the product. Think about your audience (can find many through different magazines or social/industry/pro groups) and then brainstorm products that would appeal to them. Cost 50-200 and should take no more than 3/4 weeks to make
 * page 290: can either create a product, second hand sell or copyright. Lots of advice on all 3 including how to indentify the niche market later on in the chapter too.
 * note: personally feel like a lot of the time there are stories that seem too good to be true or not relevant to my personal success. Eg: this guy works 30 mins a day to get billions or dropshipping is the answer but there are many things behind the scenes that scare me.
-* stopped at page 311
+* page 311: whole process on advertising a certain product through best, test and cut (mostly stuff about testing it online)
+* page 323: story of prosoundeffects.com (more relevant to my skills I guess) - he started by selecting his market (sound effects), brainstorming product (popular products for resale and marked down the price), micro-testing (test with ebay auctions and Google adwords or other PPC), rollout and automation.
+* page 355: aim to remove yourself from the business? I believe this is more self-sustaining and is through proper outsourcing (outsourcing companies and make sure they solve problems among themselves)
+* page 357: tips for scaling up the business
+* page 369: appear like a fortune 500 company tips
+* stopped page 386
